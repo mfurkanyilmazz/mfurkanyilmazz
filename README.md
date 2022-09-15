@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet Furkan</h1>
-<h3 align="center">I'm trying to be Backend Developer</h3>
+<h3 align="center">I'm trying to be Software Developer</h3>
 
-- 🌱 I’m currently learning **.Net and Go**
+- 🌱 I’m currently learning **.Net, C#, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
